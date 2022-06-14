@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: Paid Memberships Pro - Register Helper Add On
+Plugin Name: Paid Memberships Pro - Register Helper Add On for Sing Project
 Plugin URI: https://www.paidmembershipspro.com/add-ons/pmpro-register-helper-add-checkout-and-profile-fields/
 Description: Add custom form fields to membership checkout and user profiles with Paid Memberships Pro.
-Version: 1.7
-Author: Paid Memberships Pro
+Version: 1.7.1
+Author: Paid Memberships Pro, Forked by Simon Ng@Tala Group Limited
 Author URI: https://www.paidmembershipspro.com
 Text Domain: pmpro-register-helper
 */
